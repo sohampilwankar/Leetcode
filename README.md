@@ -13,4 +13,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sohampilwankar/Leetcode/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/sohampilwankar/Leetcode/tree/master/0946-validate-stack-sequences) |
+## Stack
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/sohampilwankar/Leetcode/tree/master/0946-validate-stack-sequences) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/sohampilwankar/Leetcode/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
