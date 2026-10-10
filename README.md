@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sohampilwankar/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sohampilwankar/Leetcode/tree/master/0706-design-hashmap) |
 | [0946-validate-stack-sequences](https://github.com/sohampilwankar/Leetcode/tree/master/0946-validate-stack-sequences) |
 ## Stack
 |  |
@@ -43,16 +44,20 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sohampilwankar/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sohampilwankar/Leetcode/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sohampilwankar/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sohampilwankar/Leetcode/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sohampilwankar/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sohampilwankar/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sohampilwankar/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sohampilwankar/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
