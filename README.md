@@ -43,11 +43,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sohampilwankar/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0705-design-hashset](https://github.com/sohampilwankar/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sohampilwankar/Leetcode/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sohampilwankar/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0705-design-hashset](https://github.com/sohampilwankar/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sohampilwankar/Leetcode/tree/master/0706-design-hashmap) |
 ## Design
@@ -60,4 +62,12 @@
 | ------- |
 | [0705-design-hashset](https://github.com/sohampilwankar/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sohampilwankar/Leetcode/tree/master/0706-design-hashmap) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sohampilwankar/Leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sohampilwankar/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
