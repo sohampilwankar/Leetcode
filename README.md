@@ -22,6 +22,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/sohampilwankar/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0946-validate-stack-sequences](https://github.com/sohampilwankar/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sohampilwankar/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Simulation
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sohampilwankar/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/sohampilwankar/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/sohampilwankar/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sohampilwankar/Leetcode/tree/master/0706-design-hashmap) |
 ## Design
@@ -66,8 +68,13 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sohampilwankar/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/sohampilwankar/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sohampilwankar/Leetcode/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sohampilwankar/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
