@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sohampilwankar/Leetcode/tree/master/0001-two-sum) |
 | [0705-design-hashset](https://github.com/sohampilwankar/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sohampilwankar/Leetcode/tree/master/0706-design-hashmap) |
 | [0946-validate-stack-sequences](https://github.com/sohampilwankar/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sohampilwankar/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sohampilwankar/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sohampilwankar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0705-design-hashset](https://github.com/sohampilwankar/Leetcode/tree/master/0705-design-hashset) |
