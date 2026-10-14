@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sohampilwankar/Leetcode/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/sohampilwankar/Leetcode/tree/master/0836-rectangle-overlap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sohampilwankar/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sohampilwankar/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sohampilwankar/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
