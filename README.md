@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sohampilwankar/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohampilwankar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sohampilwankar/Leetcode/tree/master/0027-remove-element) |
 | [0705-design-hashset](https://github.com/sohampilwankar/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sohampilwankar/Leetcode/tree/master/0706-design-hashmap) |
 | [0946-validate-stack-sequences](https://github.com/sohampilwankar/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohampilwankar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sohampilwankar/Leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/sohampilwankar/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sohampilwankar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/sohampilwankar/Leetcode/tree/master/0234-palindrome-linked-list) |
