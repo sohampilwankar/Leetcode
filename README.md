@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sohampilwankar/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sohampilwankar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/sohampilwankar/Leetcode/tree/master/0836-rectangle-overlap) |
 ## Dynamic Programming
@@ -96,4 +97,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sohampilwankar/Leetcode/tree/master/0836-rectangle-overlap) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sohampilwankar/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sohampilwankar/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
